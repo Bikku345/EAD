@@ -13,5 +13,6 @@ This repository contains assignments and practicals of Enterprise Application De
 ###
 ## Practicals
 ###
-| Practical no:            | Title            | Submission Date            | Deadline Date            |
-| :---            | :---            | :---            | :---            |
+| Practical no:            | Title            | Date                   
+| :---            |  :---                               | :---                   | :---                   |
+| 1                   | [LAB 1](https://github.com/Bikku345/EAD/tree/main/Practical/Lab1)       | 26 Nov 2021                   
