@@ -1,4 +1,4 @@
-# How to be a contributor to the open source projects?
+# How to be a contributor to the Open Source Projects?
 <span style="color:#fff; font-family: 'Bebas Neue';" > 
 1. Sign into GitHub. <br><br>
 2. Fork the project repository.<br> <br>
